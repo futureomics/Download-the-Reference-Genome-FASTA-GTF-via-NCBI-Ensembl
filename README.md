@@ -1,5 +1,4 @@
-# Download-the-Reference-Genome-FASTA-GTF-via-NCBI-Ensembl
-🧬📥 Download Reference Genome FASTA & GTF via NCBI & Ensembl (Python)
+# 🧬📥 Download Reference Genome FASTA & GTF via NCBI & Ensembl (Python)
 
 This repository provides Python scripts to automatically download reference genome sequences (FASTA) 🧾 and annotation files (GTF) 📑 from NCBI 🌐 and Ensembl 🐭🧑‍🔬.
 
