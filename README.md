@@ -3,7 +3,8 @@
 
 This repository provides Python scripts to automatically download reference genome sequences (FASTA) 🧾 and annotation files (GTF) 📑 from NCBI 🌐 and Ensembl 🐭🧑‍🔬.
 
-<img width="777" height="437" alt="image" src="https://github.com/user-attachments/assets/549bf4e4-86da-4550-9b63-33b861171f99" />
+![DNA-Animation](https://github.com/user-attachments/assets/9cefb96a-0a9c-4fd3-b2fc-cb6fc97f15c7)
+
 
 
 🚀 Features
@@ -28,7 +29,8 @@ After running, you’ll get:
 
 📑 ANNOTATION.gtf.gz → gene annotation
 
-<img width="777" height="437" alt="image" src="https://github.com/user-attachments/assets/f2596e5a-83ea-42c0-8b38-7bf38c4b0346" />
+![Complete-Human-Genome-Sequence](https://github.com/user-attachments/assets/87e1d82d-297e-4fe2-b372-2f404dfd76f0)
+
 
 
 🌍 Supported Databases
@@ -46,7 +48,8 @@ Ensembl Genomes 🐭🧑‍🔬
 📜 For large genomes, downloads may take a while ⏳
 
 
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/a8565161-5c99-4a49-8281-e4ef8670ebf7" />
+![original-f1ffd8edd5d42ac2511e53e2a723ab6a](https://github.com/user-attachments/assets/c67ac0d4-08ef-4f5a-ae19-19f7c7bb9a45)
+
 
 
 🤝 Contributing
